@@ -1,7 +1,7 @@
 {
-  "name": "dice-tray",
-  "title": "Dice Tray - An Example FVTT Module",
-  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "name": "Sheet",
+  "title": "HackM Character Sheet",
+  "description": "Sheet for Hackmaster 5e.",
   "author": "Atropos",
   "version": "1.0.0",
   "minimumCoreVersion": "0.5.0"
