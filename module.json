@@ -5,7 +5,6 @@
   "author": "Atropos",
   "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
-  
   "manifest": "https://raw.githubusercontent.com/RoboBot42/Sheet/main/module.json",
     "url": "https://github.com/RoboBot42/Sheet",
     "download": "https://github.com/RoboBot42/Sheet/archive/main.zip"
